@@ -1,0 +1,5 @@
+CONTEXT:
+TARGET: slug 'u-brisk-kestrel-93-one-line-one-minute-the-vending-376bbeee' — 'One Line, One Minute: The Vending Machine Pick'.
+
+TASK:
+Submit 'One Line, One Minute: Vending Machine Pick' ($2 free, ends in 2h) as @white-zombie.
